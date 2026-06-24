@@ -1,6 +1,6 @@
 {
-  "name": "Morning & Evening Routine",
-  "short_name": "Routine",
+  "name": "Morning & Evening Routine TEST",
+  "short_name": "TEST",
   "description": "Morning and evening habit tracker with hydration, eye drops, and shopping list",
   "start_url": "./",
   "scope": "./",
