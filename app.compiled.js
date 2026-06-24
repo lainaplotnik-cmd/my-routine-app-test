@@ -35,7 +35,7 @@ function daysSince(dateStr) {
 // ── LEVELS ────────────────────────────────────────────────────
 const LEVELS = [{
   level: 1,
-  title: "Just Woke Up",
+  title: "Just Woke Up TEST",
   min: 0
 }, {
   level: 2,
